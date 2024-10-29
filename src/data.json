@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Corolla",
+    "price": "25,000 USD",
+    "description": "The Toyota Corolla is a compact car known for its reliability and fuel efficiency. It comes with advanced safety features and a comfortable interior, making it ideal for daily commutes."
+  },
+  {
+    "id": 2,
+    "name": "Honda Civic",
+    "price": "27,000 USD",
+    "description": "The Honda Civic is a popular sedan with a sleek design and powerful performance. It offers excellent fuel economy, a spacious cabin, and advanced technology features."
+  },
+  {
+    "id": 3,
+    "name": "Ford Mustang",
+    "price": "55,000 USD",
+    "description": "The Ford Mustang is an iconic sports car that delivers impressive horsepower and a thrilling driving experience. It features a bold design and advanced features, making it a top choice for enthusiasts."
+  }
+]

@@ -1,0 +1,53 @@
+/* CarDisplay.css */
+
+.car-display {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.car-details {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.car-details:hover {
+    transform: scale(1.02);
+}
+
+.car-details h2 {
+    font-size: 24px;
+    margin: 0;
+    color: #007bff;
+}
+
+.car-details p {
+    margin: 10px 0;
+    line-height: 1.5;
+}
+
+.car-details button {
+    padding: 8px 12px;
+    font-size: 14px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.car-details button:hover {
+    background-color: #0056b3;
+}
